@@ -1,5 +1,5 @@
 # Seamless
 - HTML
 - CSS
-- JAVASCRIPT
+- Javascript
 - GSAP
