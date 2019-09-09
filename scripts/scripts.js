@@ -120,3 +120,7 @@ delay: function(el, i) {
   return 9000 + 50 * i;
 }
 });
+
+
+
+
